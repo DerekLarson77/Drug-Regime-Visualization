@@ -1,4 +1,4 @@
-# matplotlib-challenge
+Drug Regime Visualization
 
 1) Two CSV files of data were merged together on Mouse ID.  The first file had characteristics about each Mouse ID.  
 	The second file had various Timepoint data and Tumor Volume for each Mouse ID.
